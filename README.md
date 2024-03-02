@@ -11,6 +11,7 @@
 - [Rechercher des disponibilités](./features/8.rechercher-disponibilites.md)
 - [Supprimer une réservation](./features/9.supprimer-réservation.md)
 - [Supprimer un restaurant](./features/10.supprimer-restaurant.md)
+- :warning: [Correction - Créer une réservation](./features/5.1.creer-reservation.md)
 
 ## Requis de processus
 
